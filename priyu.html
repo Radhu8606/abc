@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Letter</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-size: xx-large;
+            background-color: darkslategray;
+        }
+        body {
+            background-image: url('love.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+        }
+        #abc {
+            text-align: end;   
+            padding-right: 20px;
+        }
+        table {
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background for readability */
+            border-radius: 10px;
+            padding: 20px;
+        }
+        td {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><h1>Priyu & Hemang</h1></td>
+        </tr>
+        <tr>
+            <td id="pqr"><img src="priyu1.jpg" width="500" height="500" alt="Priyu Image 1"></td>
+        </tr>
+        <tr>
+            <td>
+                "The little things you say to me always<br>
+                put a smile on my face. You make me<br>
+                want to listen to love songs, you still<br>
+                give me butterflies, and you make me<br>
+                speechless. I don't know how I got so<br>
+                lucky to have such an amazing person<br>
+                like you in my life. You're the best<br>
+                husband anyone could have asked for.<br>
+                I am truly blessed. I love you to infinity<br>
+                and beyond."
+            </td>
+        </tr>
+        <tr>
+            <td><img src="priyu2.jpg" width="500" height="500" alt="Priyu Image 2"></td>
+        </tr>
+        <tr>
+            <td>
+                My love for you is uncontrollable.<br>
+                My feelings for you are unstoppable.<br>
+                Can't go a day without thinking about you.<br>
+                Without you I'm not complete.<br>
+                With you my heart finds its beat.<br><br>
+                My heart is filled with joy because of your love.<br>
+                You are my strength, and without you I'm weak.<br>
+                Before you came into my life, I was<br>
+                hopeless, lonely, sad.<br>
+                When you showed up, I knew that you were sent to me.<br><br>
+                You are always here to cheer me up.<br>
+                Your smile makes me shy,<br>
+                And sometimes I wonder where you have been all this while.<br>
+                But I'm just glad that I managed to get you in my life...<br><br>
+                <h3>YOU FILL MY HEART WITH JOY....!</h3>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="priyu3.jpg" width="500" height="500" alt="Priyu Image 3"></td>
+        </tr>
+        <tr>
+            <td>
+                May you have the love<br>
+                only two can know.<br>
+                May you go where only<br>
+                two as one may go.<br>
+                May the sun rise and set<br>
+                in your bonded hearts,<br>
+                and the moon never find you<br>
+                too long apart.<br>
+                May you cherish each other's<br>
+                dreams as your own,<br>
+                and turn stumbling blocks<br>
+                into stepping stones.<br>
+                May you brave life's mountains<br>
+                and miles together.<br>
+                May there be no storm<br>
+                your love cannot weather.<br>
+                May you always be lovers,<br>
+                and allies and friends.<br>
+                May your souls' conversation<br>
+                never end.<br>
+                May you capture on earth<br>
+                what's in heaven above.<br>
+                May your hearts know the rapture...!
+            </td>
+        </tr>
+        <tr>
+            <td><img src="priyu4.jpg" width="500" height="500" alt="Priyu Image 4"></td>
+        </tr>
+        <tr id="abc">
+            <td>Your Lovingly<br>Priyu</td>
+        </tr>
+    </table>
+</body>
+</html>
